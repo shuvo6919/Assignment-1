@@ -1,0 +1,112 @@
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font: 45px;
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-1 {
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    margin: 0px;
+    background-size: cover;
+
+}
+
+.section-1 img {
+    width: 100%;
+}
+
+.s1-d1 {
+    padding: 10% 25%;
+    text-align: center;
+}
+
+.button {
+    color: white;
+    font-weight: 700;
+    background-color: rgb(255, 84, 84);
+    padding: 2% 4%;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.section-2 {
+    text-align: center;
+}
+
+.section-3 {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20%;
+    padding-right: 20%;
+
+
+}
+
+.s3-d1 {
+    background-color: rgb(168, 164, 164);
+    text-align: center;
+    padding: .5%;
+    border-radius: 5px;
+
+}
+
+.s3-d2 {
+    color: rgb(255, 84, 84);
+    background-color: rgb(227, 189, 189);
+    border: 2px solid rgb(255, 84, 84);
+
+    padding: .5%;
+    border-radius: 5px;
+
+
+}
+
+.section-4 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.tk {
+    background-color: rgb(119, 119, 119);
+    border-radius: 5px;
+}
+
+.section-5 {
+    text-align: center;
+}
+
+.button-1 {
+    color: white;
+    font-weight: 700;
+    background-color: rgb(255, 84, 84);
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+.section-6 {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.s6-d1 {
+
+    background-color: rgb(150, 203, 185);
+    padding: 2% 2%;
+    justify-content: space-evenly;
+    margin: 2%;
+
+}
